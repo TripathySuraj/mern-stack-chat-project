@@ -40,7 +40,7 @@ const Login = () => {
       };
 
       const { data } = await axios.post(
-        "https://tripathysuraj.github.io/backend-chat/api/user/login",
+        "https://localhost:4500/api/user/login",
         { email, password },
         config
       );
