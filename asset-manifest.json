@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mern-stack-chat-project/static/css/main.bbd55bfb.css",
+    "main.js": "/mern-stack-chat-project/static/js/main.6003d033.js",
+    "static/media/background.webp": "/mern-stack-chat-project/static/media/background.750de7fb5dcaacffb26b.webp",
+    "index.html": "/mern-stack-chat-project/index.html",
+    "main.bbd55bfb.css.map": "/mern-stack-chat-project/static/css/main.bbd55bfb.css.map",
+    "main.6003d033.js.map": "/mern-stack-chat-project/static/js/main.6003d033.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbd55bfb.css",
+    "static/js/main.6003d033.js"
+  ]
+}
